@@ -1,0 +1,11 @@
+# Ignorer le dossier graphes et copie
+graphes/
+copie/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les fichiers logs
+*.log
